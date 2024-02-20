@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;200;300;400;500;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: JetBrains Mono;
+}
+
+a{
+    text-decoration: none;
+}
+
+.links a{
+    color: #181825;
+    font-size: 20px;
+}
+
+.links{
+    display: flex;
+    gap: 50px;
+}
+
+.nav{
+    background-color:  #FAB387;
+}
+
+.nav-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 350px;
+}
+
+.main1-background{
+    background-color: #181825;
+}
+
+.main-img-1{
+    background-color: #FAB387;
+    width: 500px;
+    border-radius: 30px;
+}
+
+.main-img-1_p{
+    text-align: center;
+    
+}
+
+.main-img-bg{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 350px;
+    padding: 100px 0px;
+}
+
+.one{
+    display: grid;
+    gap: 50px;
+}
+
+.two{
+    display: grid;
+    gap: 50px;
+}
+
+.main-t{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+.main-2-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 40px;
+}
+
+.main-2-bg{
+    background-color: #181825;
+    border-top: solid 2px #FAB387;
+    border-bottom: solid 2px #FAB387;
+}
+
+.p-25{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.p-26{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.main-3-h{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+.p-1{
+    color: #FAB387;
+
+}
+
+.p-3{
+    color: #FAB387;
+    padding-bottom: 20px;
+}
+
+.main-3-content-2{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 350px;
+}
+
+.main-3-bg{
+    background-color: #181825;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+}
+
+.p{
+    padding-top: 20px;
+    
+
+}
+
+.p-2{
+    color: white;
+}
+.bg2{
+    display: flex;
+}
+
+.bg1{
+    background-color: #FAB387;
+}
+
+.bg2{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+.class{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 300px;
+}

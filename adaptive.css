@@ -1,0 +1,97 @@
+@media screen and (max-width: 430px) {
+    .nav-nav{
+        justify-content: space-between;
+        margin: 0 23px;
+    }
+
+    header .nav .nav-nav .img1 a img {
+        width: 60px;
+    }
+
+    .links a{
+        font-size: 10px;
+    }
+
+    .links{
+        gap: 10px;
+        margin-left: 30px;
+    }
+
+    .main-t{
+        font-size: 20px;
+    }
+
+    .main-img-1 img{
+        width: 150px;
+    }
+
+    .main-img-1{
+        width: 150px;
+        font-size: 10px;
+        border-radius: 10px;
+        
+    }
+
+    .main-img-bg{
+        margin: 0 23px;
+    }
+
+    .main-2-content img{
+        width: 100px
+
+    }
+
+    .main-2-content .main-t, .p-25, .p-26{
+        font-size: 10px;
+    }
+
+    .main-2-content .main-t{
+        font-size: 20px;
+    }
+
+    .main-2-content .p-26{
+        margin-bottom: 50px;
+    }
+
+    .main-3-h{
+        font-size: 20px;
+    }
+
+    .content img{
+        width: 50px;
+        margin-top: 40px;
+        margin-bottom: 5px;
+    }
+
+    .main-3-content-2{
+        margin: 0 23px;
+        font-size: 10px;
+        margin-top: 5px;
+    }
+
+    .class img{
+        width: 40px;
+        padding-left: 10px;
+    }
+
+    .class div{
+        display: flex;
+    }
+
+    .class{
+        margin: 0 23px;
+        height: 100px;
+    }
+
+    .class p{
+        font-size: 10px;
+    }
+
+    .bg2{
+        gap: 10px;
+    }
+
+    .bg2 img{
+        width: 60px;
+    }
+}
